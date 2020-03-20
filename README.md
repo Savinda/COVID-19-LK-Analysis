@@ -3,7 +3,7 @@
 - [📈 LIVE DASHBOARD](https://covid19-sl.netlify.com/)
 
 
-![alt text](28-cases.png)
+![alt text](cases.png)
 
 - [X]  Crawler to scrape and cross-check data from different sources
 - [X]  Visualize data - [SEE HERE](https://covid19-sl.netlify.com/)
